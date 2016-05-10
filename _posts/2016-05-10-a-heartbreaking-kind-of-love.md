@@ -48,10 +48,10 @@ app_links:
     namespace: google
     type: android
 title: A Heartbreaking kind of love.
-datePublished: '2016-05-10T20:55:59.765Z'
-dateModified: '2016-05-10T20:47:18.919Z'
-starred: false
+datePublished: '2016-05-10T21:14:21.496Z'
+dateModified: '2016-05-10T21:14:20.901Z'
 sourcePath: _posts/2016-05-10-a-heartbreaking-kind-of-love.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
