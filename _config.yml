@@ -1,14 +1,14 @@
 layout_spectrum: 0.3541972597595304
-typography_spectrum: 0.22657843818888068
+typography_spectrum: 0.06052807136438787
 color:
-  brandStrength: 0.29444013978354633
-  lightness: 0.7000390274915844
-  saturation: 0.5762155698612332
-  rhythmicContrast: 0.12172476178966463
+  brandStrength: 0.1966566878836602
+  lightness: 0.71123281493783
+  saturation: 0.4844237833749503
+  rhythmicContrast: 0.3022701891604811
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: Lizy
